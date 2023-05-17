@@ -1,4 +1,8 @@
-### Hi there 👋
+Olá! Eu sou o seja bem-vindo(a) 👋
+
+Desenvolvedoro Front-End HTML | CSS | JavaScript
+
+
 
 <!--
 **JosePaulino/JosePaulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
